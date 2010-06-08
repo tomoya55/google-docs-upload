@@ -1,0 +1,8 @@
+forked from http://code.google.com/p/google-docs-upload/
+
+CHANGES
+06/08/2010
+* file size limits to 1024MB
+* added "jtd" for supported formats. (actually any types of file can be uploaded to google docs)
+
+
